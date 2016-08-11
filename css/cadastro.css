@@ -1,0 +1,19 @@
+.c-icon-user{
+	margin-top: 3%;
+}
+body{
+	background-color: #F3F3F4;
+}
+#ui-block-custom{
+	width:75%;
+	float:left;
+	margin-top: 2%;
+}
+.facebook-button{
+	border: 0px;
+	padding: 0px;
+	
+}
+.c-form{
+	margin-top:2%;
+}
